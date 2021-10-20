@@ -13,4 +13,4 @@ Information about the Semantic Affinity dataset:
 |akhlagh (Moral) | 348|
 |eshq (Love) | 446|
 
-![alt text]("D:\Papers\Paper 4 - Poetry Generation\Prose2Poem\topics dist.png")
+![alt text](https://github.com/mitramir55/Prose2Poem/blob/main/topics%20dist.png)
